@@ -1,6 +1,6 @@
 # 技术分享
 
-[ART-Pi](https://art-pi.gitee.io/website/) 的技术分享专栏, 欢迎大家在此分享自己的学习心得。如需投稿请提交至 [ART-Pi/website仓库](https://github.com/ART-Pi/website)。
+[ART-Pi](https://art-pi.github.io/website/) 的技术分享专栏, 欢迎大家在此分享自己的学习心得。如需投稿请提交至 [ART-Pi/website仓库](https://github.com/ART-Pi/website)。
 
 
 
